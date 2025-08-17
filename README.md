@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Luke187-hue/Luke187-hue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Luke187-hue/Luke187- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hue
 --->
